@@ -1,0 +1,7 @@
+{
+  "name": "OCR Text Extractor & Verifier",
+  "description": "An intelligent OCR solution to extract text from documents, auto-fill forms, and verify data accuracy against the source image using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
